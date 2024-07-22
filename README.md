@@ -34,7 +34,9 @@ python game.py
 ```
 
 ## 게임 화면 🎮
-![image](https://github.com/user-attachments/assets/870bb903-876e-41e2-8a68-74d3535c7ddb)
+![image](https://github.com/user-attachments/assets/c3d6f5ed-c548-456f-baea-778f9f1ae690)
+![image](https://github.com/user-attachments/assets/5c8d33af-ba9f-4dcb-8292-493e232d4304)
+![image](https://github.com/user-attachments/assets/8bde2932-4fc2-42bc-a591-005ede453231)
 ![image](https://github.com/user-attachments/assets/612e590b-02ba-4f91-bd8a-0f51579f7926)
 
 ## 코드 설명 📝
@@ -98,7 +100,3 @@ python game.py
     git push origin feature/AmazingFeature
     ```
 5. **풀 리퀘스트**: 풀 리퀘스트를 생성하세요.
-
-## 라이선스 📄
-
-이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 `LICENSE` 파일을 참조하세요.
