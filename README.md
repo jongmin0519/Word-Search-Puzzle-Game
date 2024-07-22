@@ -34,8 +34,6 @@ python game.py
 ```
 
 ## 게임 화면 🎮
-![66](https://github.com/user-attachments/assets/57d19d5c-1f08-41a4-8f64-123a2401d4de)
-![665](https://github.com/user-attachments/assets/baa3c7dc-ed4e-40f7-9cea-91f0b585fd28)
 ![image](https://github.com/user-attachments/assets/870bb903-876e-41e2-8a68-74d3535c7ddb)
 ![image](https://github.com/user-attachments/assets/612e590b-02ba-4f91-bd8a-0f51579f7926)
 
